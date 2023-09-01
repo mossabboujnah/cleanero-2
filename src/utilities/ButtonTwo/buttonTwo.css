@@ -1,0 +1,13 @@
+.buttonTwo{
+    background-color: blue;
+    padding: 0.25em 0.75em;
+    border-radius: 0.4rem;
+    display: inline-flex;
+    gap: 0.3rem;
+}
+
+.buttonTwo p{
+    margin-bottom: 0.1rem;
+    font-weight: 600;
+    color: white;
+}

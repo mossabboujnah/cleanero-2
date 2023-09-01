@@ -1,0 +1,12 @@
+.input{
+
+    padding: 0.7em 1.4em;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25rem;
+}
+
+input::placeholder{
+    color: #222;
+    opacity: 0.3 !important;
+}
